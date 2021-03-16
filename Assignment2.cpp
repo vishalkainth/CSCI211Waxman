@@ -1,3 +1,17 @@
+// Adding BIG Integers
+//     In C++ an int is in the range 0 to 65535. But what if we need to add larger integers? Say we want
+//     compute the sum 2345566777844567+ 9999988777765768009998. You task in this assignment
+//     is to make this happen.
+//
+//     Write a function
+//         string add(string a, string b)
+//     where a and b are strings representing integers and the function add(a,b) returns a string
+//     representing their sum. Strings a and b can have a maximum of 100 characters.
+//
+//     Write a main program that loops asking the user for the two numbers a and b. The program
+//     should terminate if the user enters “done” what asked for “number” a. 
+
+
 #include <iostream>
 #include <string>
 #include <algorithm>
