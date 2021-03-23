@@ -1,3 +1,5 @@
+// Complete the "dumb" 8 queens program that we looked at in lecture. Use the 1 dimensional array representation.
+
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
