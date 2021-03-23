@@ -1,3 +1,5 @@
+// Complete the 8 queens 1 dimensional array program with backtracking that we worked on in class.
+
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
