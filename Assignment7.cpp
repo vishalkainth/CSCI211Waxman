@@ -1,3 +1,5 @@
+// Redo the 8 queens 1 dimensional array program with backtracking REMOVING ALL "GOTOs" - but implementing the same algorithm
+
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
